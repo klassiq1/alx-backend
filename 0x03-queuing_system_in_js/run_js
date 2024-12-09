@@ -1,0 +1,13 @@
+npm run dev 0-redis_client.js
+
+
+npm cache clean --force
+
+
+
+solve error
+npm cache clean --force
+
+start server
+sudo service redis-server start
+
