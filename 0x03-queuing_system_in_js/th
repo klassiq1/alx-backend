@@ -1,1 +1,2 @@
 hopefully
+sudo service redis-server start
