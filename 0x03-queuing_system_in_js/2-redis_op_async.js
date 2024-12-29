@@ -17,9 +17,9 @@ const displaySchoolValue = async (schoolName) => {
 };
 
 async function main() {
-  await displaySchoolValue('Holberton');
-  setNewSchool('HolbertonSanFrancisco', '100');
-  await displaySchoolValue('HolbertonSanFrancisco');
+  await displaySchoolValue('ALX');
+  setNewSchool('ALXSanFrancisco', '100');
+  await displaySchoolValue('ALXSanFrancisco');
 }
 
 client.on('connect', async () => {
